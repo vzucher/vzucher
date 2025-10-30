@@ -4,7 +4,9 @@
 
 ### Senior Engineer · Product Builder · Cloud Architect
 
-**Building production-grade systems at the intersection of AI, data, and cloud infrastructure**
+I'm a Senior Engineer currently working on AI systems, data pipelines, and cloud infrastructure. I specialize in building production-grade products that integrate LLMs, modern data stacks, and scalable GCP architectures. Passionate about shipping fast and solving complex problems with cutting-edge technologies.
+
+**Google Cloud Platform Specialist • AI/ML Engineer • Full-Stack Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuckervitor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vzucher@gmail.com)
@@ -14,7 +16,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vzucher&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4285F4&icon_color=4285F4&text_color=c9d1d9)
 &nbsp;&nbsp;
@@ -22,11 +24,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vzucher&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=c9d1d9&langs_count=8)
 
-</div>
+</div> -->
 
 <br/>
 
-## 🎯 What I Build
+<!-- ## 🎯 What I Build -->
 
 ```typescript
 const vzucher = {
@@ -309,8 +311,8 @@ I'm always interested in challenging projects that push boundaries—whether it'
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorzucher)
-[![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor@amplifyit.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuckervitor)
+[![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vzucher@gmail.com)
 
 **💬 Open to:** Consulting · Contract Work · Full-Time Opportunities · Technical Partnerships
 
