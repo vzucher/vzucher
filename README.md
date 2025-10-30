@@ -6,8 +6,8 @@
 
 **Building production-grade systems at the intersection of AI, data, and cloud infrastructure**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorzucher)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vitor@amplifyit.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuckervitor)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vzucher@gmail.com)
 [![GCP Certified](https://img.shields.io/badge/GCP-Certified-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](#)
 
 </div>
