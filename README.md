@@ -222,5 +222,3 @@ I'm always interested in challenging projects that push boundaries—whether it'
 <sub>⭐️ Built with passion for great engineering | Last updated: 2025</sub>
 
 </div>
-
-
